@@ -1,0 +1,20 @@
+{
+  "name": "codpros-hover-effect",
+  "version": "1.0.0",
+  "description": "Fork from [Codpros](https://github.com/codrops/DirectionAwareHoverEffect).",
+  "main": "dist/jquery.hoverdir.min.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amostajo/DirectionAwareHoverEffect.git"
+  },
+  "author": "Codpros",
+  "license": "MIT",
+  "homepage": "https://github.com/codrops/DirectionAwareHoverEffect",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-contrib-copy": "^0.8.2",
+    "grunt-contrib-cssmin": "^0.14.0",
+    "grunt-contrib-uglify": "^0.11.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "codpros-hover-effect",
+  "description": "Codpros' hover effect.",
+  "homepage": "https://github.com/amostajo/DirectionAwareHoverEffect",
+  "authors": [
+      "Codpros <http://www.codrops.com>",
+      "Alejandro Mostajo <amostajo@gmail.com>"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/amostajo/DirectionAwareHoverEffect.git"
+  },
+  "dependencies": {
+    "modernizr": "~3.2.0"
+  }
+  "private": false,
+}
