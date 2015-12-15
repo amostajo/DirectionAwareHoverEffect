@@ -12,6 +12,6 @@
   },
   "dependencies": {
     "modernizr": "~3.2.0"
-  }
-  "private": false,
+  },
+  "private": false
 }
